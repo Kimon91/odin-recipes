@@ -3,12 +3,13 @@ body {
 }
 
 h1 {
-    font-size: larger;
+    font-size: 150px;
     font-weight: bold;
     text-align: center;
 }
 
 p {
-    font-size: medium;
+    color: black;
+    font-size: 70px;
     text-align: center;
 }
