@@ -1,11 +1,13 @@
 body {
-    background-color: rgba(175, 128, 219, 0.945);
+    background-color: rgb(229, 199, 199);
 }
 
 h1 {
     font-size: 150px;
     font-weight: bold;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 4px 5px 5px red;
 }
 
 p {
